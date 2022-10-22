@@ -1,0 +1,1 @@
+/configure card <card> card-type <card-type>
